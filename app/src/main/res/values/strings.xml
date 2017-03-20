@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Aniset</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_profile">Edit Profile</string>
+    <string name="title_activity_goals">Goals</string>
+    <string name="title_activity_diary__settings">Diary_Settings</string>
+
+    <string-array name="arrReminder">
+        <item>"1"</item>
+        <item>"3"</item>
+        <item>"5"</item>
+        <item>"Custom"</item>
+    </string-array>
+    <string name="title_activity_my_exercises">myExercises</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="title_activity_exercise">exercise</string>
+    <string name="title_activity_goal">goal</string>
+</resources>
